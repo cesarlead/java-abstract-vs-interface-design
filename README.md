@@ -22,10 +22,7 @@ El sistema simula un **Motor de Gestión Documental** que debe:
 Necesitas tener Java y Maven instalados.
 
 ### Pasos
-1.  Clona el repositorio:
-    ```bash
-    git clone [https://github.com/TU-USUARIO/spring-boot-solid-architecture-patterns.git](https://github.com/TU-USUARIO/spring-boot-solid-architecture-patterns.git)
-    ```
+1.  Clona el repositorio
 2.  Compila y ejecuta con Maven Wrapper (o tu instalación local):
     ```bash
     mvn spring-boot:run
